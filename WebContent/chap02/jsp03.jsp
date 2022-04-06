@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<h1>Lorem.</h1>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta fugit magnam doloribus similique delectus numquam maxime voluptas quas quam unde? Deleniti dolor corporis quia fugiat cum pariatur labore recusandae id!</p>
+
 
 </body>
 </html>
